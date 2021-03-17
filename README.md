@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gneder
+- 👀 I’m interested in Software Quality Assurance
+- 🌱 I’m currently learning English and every day about test automation.
+- 💞️ I’m looking to collaborate on challanges projects that improve my technical skills and also my english speaking.
+- 📫 How to reach me gabriel.neder11@gmail.com
