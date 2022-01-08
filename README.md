@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriel Neder
-- 🛠 I’m interested in Software Quality Assurance
+- 🛠 I’m interested in Software Quality Assurance adn Agile Testing
 - 🚀 I’m currently learning English and every day about test automation
 - 😀 I’m looking to collaborate on challanges projects that improve my technical skills and also my English speaking
 - 📫 How to reach me gabriel.neder11@gmail.com
