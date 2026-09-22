@@ -15,6 +15,8 @@ Most recently, at **Trustly** (global payments), I helped build the CI/CD test p
 - **[saucedemo-selenium-cucumber](https://github.com/gneder/saucedemo-selenium-cucumber)** — E2E test suite with Selenium WebDriver, Cucumber (BDD) and Java, Page Object Model, CI on GitHub Actions.
 - **[saucedemo-playwright-ts](https://github.com/gneder/saucedemo-playwright-ts)** — UI and API test automation with Playwright and TypeScript, Page Object Model, CI on GitHub Actions.
 - **[the-internet-cypress](https://github.com/gneder/the-internet-cypress)** — Cypress UI test suite covering dynamic content, dropdowns, JS dialogs and login flows, CI on GitHub Actions.
+- **[ai-test-failure-triage](https://github.com/gneder/ai-test-failure-triage)** — CLI that uses the Claude API to triage failing CI tests from a Playwright report — flaky vs. real bug, root cause, suggested fix.
+- **[ai-gherkin-generator](https://github.com/gneder/ai-gherkin-generator)** — CLI that uses the Claude API to turn a plain-English user story into Gherkin scenarios and Cucumber step-definition skeletons.
 
 ## Tech stack
 
@@ -27,3 +29,4 @@ Most recently, at **Trustly** (global payments), I helped build the CI/CD test p
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Anthropic](https://img.shields.io/badge/-Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
