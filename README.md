@@ -8,7 +8,7 @@ At **Trustly** (global payments), I helped build the CI/CD test pipelines for a 
 - 🤖 Applying **Claude Code** to code review and to Jira/Zephyr workflows
 - 🧪 Also writing **Playwright** (TypeScript) and **Cypress** suites
 - 📝 I write about QA and test automation on [Medium](https://medium.com/@_gabrielneder)
-- 💬 Reach me at gabriel.neder11@gmail.com or [LinkedIn](https://www.linkedin.com/in/gabrielneder-b2503431)
+- 💬 Reach me at gabriel.neder11@gmail.com or [LinkedIn](https://www.linkedin.com/in/gabriel-neder-b2503431/)
 
 ## Tech stack
 
