@@ -2,7 +2,7 @@
 
 **Senior QA Engineer** focused on test automation and quality engineering, with 10+ years across the full SDLC. **Open to new opportunities.**
 
-Most recently, at **Trustly** (global payments), I helped build the CI/CD test pipelines for a monolith running 50,000+ automated tests — cutting pipeline time from 1h40 to 30 minutes — and went on to own QA end-to-end for a product squad, mentoring a junior QA along the way.
+Most recently, at **Trustly** (global payments), I helped build the CI/CD test pipelines for a monolith running 50,000+ automated tests — cutting pipeline time from 1h40 to 30 minutes — and went on to own QA end-to-end for a product squad, mentoring fellow QAs on specific technical topics along the way.
 
 - 🔭 Building E2E frameworks in **Java, Selenium/Selenide, Cucumber** and CI tooling in **Bash**
 - 🤖 Applying **Claude Code** and the **Anthropic API** to code review, CI test triage and Jira/Zephyr workflows
