@@ -17,6 +17,7 @@ Most recently, at **Trustly** (global payments), I helped build the CI/CD test p
 - **[the-internet-cypress](https://github.com/gneder/the-internet-cypress)** — Cypress UI test suite covering dynamic content, dropdowns, JS dialogs and login flows, CI on GitHub Actions.
 - **[ai-test-failure-triage](https://github.com/gneder/ai-test-failure-triage)** — CLI that uses the Claude API to triage failing CI tests from a Playwright report — flaky vs. real bug, root cause, suggested fix.
 - **[ai-gherkin-generator](https://github.com/gneder/ai-gherkin-generator)** — CLI that uses the Claude API to turn a plain-English user story into Gherkin scenarios and Cucumber step-definition skeletons.
+- **[qa-test-plan-skill](https://github.com/gneder/qa-test-plan-skill)** — a Claude Code skill that turns a Jira ticket or PR description into a test plan, Gherkin scenarios and a Zephyr-ready test-case import.
 
 ## Tech stack
 
