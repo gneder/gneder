@@ -1,14 +1,14 @@
 # Hi, I'm Gabriel 👋
 
-**Senior QA Engineer** focused on test automation and quality engineering, with 10+ years across the full SDLC.
+**Senior QA Engineer** focused on test automation and quality engineering, with 10+ years across the full SDLC. **Open to new opportunities.**
 
-At **Trustly** (global payments), I helped build the CI/CD test pipelines for a monolith running 50,000+ automated tests — cutting pipeline time from 1h40 to 30 minutes — and now own QA end-to-end for a product squad, mentoring a junior QA along the way.
+Most recently, at **Trustly** (global payments), I helped build the CI/CD test pipelines for a monolith running 50,000+ automated tests — cutting pipeline time from 1h40 to 30 minutes — and went on to own QA end-to-end for a product squad, mentoring a junior QA along the way.
 
 - 🔭 Building E2E frameworks in **Java, Selenium/Selenide, Cucumber** and CI tooling in **Bash**
-- 🤖 Applying **Claude Code** to code review and to Jira/Zephyr workflows
+- 🤖 Applying **Claude Code** and the **Anthropic API** to code review, CI test triage and Jira/Zephyr workflows
 - 🧪 Also writing **Playwright** (TypeScript) and **Cypress** suites
 - 📝 I write about QA and test automation on [Medium](https://medium.com/@_gabrielneder)
-- 💬 Reach me at gabriel.neder11@gmail.com or [LinkedIn](https://www.linkedin.com/in/gabriel-neder-b2503431/)
+- 💬 Open to new roles — reach me at gabriel.neder11@gmail.com or [LinkedIn](https://www.linkedin.com/in/gabriel-neder-b2503431/)
 
 ## Featured projects
 
