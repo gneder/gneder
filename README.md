@@ -10,6 +10,12 @@ At **Trustly** (global payments), I helped build the CI/CD test pipelines for a 
 - 📝 I write about QA and test automation on [Medium](https://medium.com/@_gabrielneder)
 - 💬 Reach me at gabriel.neder11@gmail.com or [LinkedIn](https://www.linkedin.com/in/gabriel-neder-b2503431/)
 
+## Featured projects
+
+- **[saucedemo-selenium-cucumber](https://github.com/gneder/saucedemo-selenium-cucumber)** — E2E test suite with Selenium WebDriver, Cucumber (BDD) and Java, Page Object Model, CI on GitHub Actions.
+- **[saucedemo-playwright-ts](https://github.com/gneder/saucedemo-playwright-ts)** — UI and API test automation with Playwright and TypeScript, Page Object Model, CI on GitHub Actions.
+- **[the-internet-cypress](https://github.com/gneder/the-internet-cypress)** — Cypress UI test suite covering dynamic content, dropdowns, JS dialogs and login flows, CI on GitHub Actions.
+
 ## Tech stack
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
